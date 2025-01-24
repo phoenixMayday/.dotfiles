@@ -1,0 +1,2 @@
+require("phoenix")
+print("Hallo!")
