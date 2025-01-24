@@ -1,3 +1,2 @@
 nvim/.config/nvim/plugin/
-nvim/.local/share/nvim/site/pack/packer/start/plenary.nvim/
-nvim/.local/share/nvim/site/pack/packer/start/telescope.nvim/
+nvim/.local/share/nvim/site/pack/packer/start/*
